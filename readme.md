@@ -42,22 +42,22 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 <b>1-</b> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</li></br>
 **2-** Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.</br>
 
-![FreeBSD-download](assets/images/freebsd-download.gif)
+![FreeBSD-download](images/freebsd-download.gif)
 
 **3-** Sıradaki adımı aşağıdaki gif yardımıyla gerçekleştirebilirsiniz.
 > FreeBSD en az 2 gb bir ram belleğine ihtiyaç duymaktadır. Bu yüzden <b>Memory Size</b> kısmını en az 2000 mb yapmanız gerekmektedir. 
 
-![Sanal Makine FreeBSD](assets/images/sanal-makine-freebsd.gif)
+![Sanal Makine FreeBSD](images/sanal-makine-freebsd.gif)
 
 > Eğer <b>Değişken Boyut</b> seçeneğini kullanırsanız, sistemi kullanırken ayırdığınız boyutu aşsanız bile sisteme programınız yazılmaya devam eder. Eğer <b>Sabit Boyut</b> seçerseniz makine tarafından size bir uyarı mesajı gönderilecektir.
 
 **4-** Şimdi ise **Ayarlar > Depolama** seçeneğine tıklayarak bir sürücü ekleyin. Bu sürücü 1.adımda indirmiş olduğumuz **FreeBSD iso dosyasıdır.**</br> 
 
-![Adım](assets/images/adim.jpg)
+![Adım](images/adim.jpg)
 
 **5-** Daha sonra aşağıdaki gifi referans alarak gereken adımları tamamlayınız.
 
-![Sanal makine açıldı](assets/images/freebsd-once.gif)
+![Sanal makine açıldı](/images/freebsd-once.gif)
 
 **6-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
 
