@@ -61,8 +61,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 **6-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
 
-![FreeBSD Kurulumu](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
+[FreeBSD Kurulumu İçin Tıklayınız](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
 
 Yazımı burada sonlandırarak herkese sağlıklı günler diliyorum..
