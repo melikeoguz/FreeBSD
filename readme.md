@@ -63,4 +63,6 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 ![FreeBSD Kurulumu](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+
 Yazımı burada sonlandırarak herkese sağlıklı günler diliyorum..
