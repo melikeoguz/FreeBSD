@@ -55,11 +55,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 ![Adım](images/adim.jpg)
 
-**5-** Daha sonra aşağıdaki gifi referans alarak gereken adımları tamamlayınız.
-
-![Sanal makine açıldı](/images/freebsd-once.gif)
-
-**6-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
+**5-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
 
 [FreeBSD Kurulumu İçin Tıklayınız](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
