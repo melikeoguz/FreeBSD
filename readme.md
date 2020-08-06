@@ -44,8 +44,8 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 ![FreeBSD-download](images/freebsd-download.gif)
 
-**3-** Sıradaki adımı aşağıdaki gif yardımıyla gerçekleştirebilirsiniz.
-> FreeBSD en az 2 gb bir ram belleğine ihtiyaç duymaktadır. Bu yüzden <b>Memory Size</b> kısmını en az 2000 mb yapmanız gerekmektedir. 
+**3-** Sıradaki adımı aşağıdaki gif yardımıyla gerçekleştirebilirsiniz.</br>
+> FreeBSD en az 2 gb bir ram belleğine ihtiyaç duymaktadır. Bu yüzden <b>Memory Size</b> kısmını en az 2000 mb yapmanız gerekmektedir. </br>
 
 ![Sanal Makine FreeBSD](images/sanal-makine-freebsd.gif)
 
